@@ -7,4 +7,6 @@ def mult(a,b):
 def devision(a,b):
     return a/b 
 def palindrome():
-    print("palindrome")
+    print("palindrome") 
+def  data():
+    print("data science")
