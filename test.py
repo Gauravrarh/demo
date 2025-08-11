@@ -8,3 +8,5 @@ def devision(a,b):
     return a/b 
 def palindrome():
     print("palindrome")
+def bottle():
+    print("bottle")
