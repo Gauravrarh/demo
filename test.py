@@ -15,4 +15,5 @@ def  data():
     print("palindrome")
 def bottle():
     print("bottle")
-
+def water():
+    print("drinking water")
